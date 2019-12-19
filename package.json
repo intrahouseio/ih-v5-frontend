@@ -10,7 +10,7 @@
     "clipboard-polyfill": "^2.8.6",
     "events": "^3.0.0",
     "install": "^0.13.0",
-    "npm": "^6.11.3",
+    "npm": "^6.13.4",
     "nprogress": "^0.2.0",
     "react": "^16.9.0",
     "react-custom-scrollbars": "^4.2.1",
