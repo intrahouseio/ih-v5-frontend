@@ -27,7 +27,7 @@
     "idb": "^6.0.0",
     "intl": "^1.2.5",
     "js-file-download": "^0.4.12",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "nprogress": "^0.2.0",
     "painterro": "^1.0.47",
